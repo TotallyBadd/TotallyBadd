@@ -3,7 +3,7 @@
 - Socials:
 Discord: toally.bad
 Website: https://totallybadd.github.io/webpage/ 
-youtube: @totally_bad
+YouTube: @totally_bad
 
 - Skills:
 I am professional in the following coding languages: 
