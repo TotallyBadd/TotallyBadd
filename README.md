@@ -4,6 +4,7 @@
 - Discord: toally.bad
 - Website: https://totallybadd.github.io/webpage/
 - Font Generator: https://totallybadd.github.io/font/
+- Galactic Path: https://totallybadd.github.io/galacticpath
 - YouTube: @totally_bad
 
 - Skills:
