@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=totallybadd" alt="totallybadd" /></a> </p>
 
-- 🔭 I’m currently working on [Galactic Path](https://totallybadd.github.io/galacticpath/)
+- 🔭 I’m currently working on [Galactic Studios](https://totallybadd.github.io/galacticstudios/)
 
 - 🌱 I’m currently learning **JavaScript, Python, C++, HTML, CSS**
 
