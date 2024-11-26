@@ -4,7 +4,7 @@
 <a href="https://github.com/totallybadd">
   <img src="https://visitcount.itsvg.in/api?id=TotallyBadd&label=Account%20Visits&icon=5&pretty=true" />
 </a>
-
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=totallybadd" alt="totallybadd" /></a> </p>
 
 - 🔭 I’m currently working on [Galactic Studios](https://totallybadd.github.io/galacticstudios/)
