@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Totally_Bad</h1>
 <h3 align="center">A passionate frontend developer from Germany.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=totallybadd&label=Profile%20views&color=0e75b6&style=flat" alt="totallybadd" /> </p>
+<a href="https://github.com/totallybadd">
+  <img src="https://visitcount.itsvg.in/api?id=TotallyBadd&label=Account%20Visits&icon=5&pretty=true" />
+</a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=totallybadd" alt="totallybadd" /></a> </p>
 
