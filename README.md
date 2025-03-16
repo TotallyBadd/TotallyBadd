@@ -7,11 +7,9 @@
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=totallybadd" alt="totallybadd" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://totallybadd.github.io/webpage)
+- 🔭 I’m currently working on my [Portfolio](https://totallyswork.netlify.app)
 
-- 🌱 I’m currently learning **JavaScript, Python, C++, HTML, CSS**
-
-- 👨‍💻 All of my projects and experiences are available at [https://totallybadd.github.io/webpage](https://totallybadd.github.io/webpage)
+- 👨‍💻 All of my projects and experiences are available at [https://totallybadd.github.io/webpage](https://totallybad.netlify.app)
 
 - 📫 How to reach me **totally.bad.social@gmail.com**
 
