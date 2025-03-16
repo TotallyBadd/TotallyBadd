@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on my [Portfolio](https://totallyswork.netlify.app)
 
-- 👨‍💻 All of my projects and experiences are available at [https://totallybadd.github.io/webpage](https://totallybad.netlify.app)
+- 👨‍💻 All of my projects and experiences are available at [my website](https://totallybad.netlify.app)
 
 - 📫 How to reach me **totally.bad.social@gmail.com**
 
