@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Totally_Bad</h1>
-<h3 align="center">A passionate frontend developer from Germany.</h3>
+<h3 align="center">A passionate developer from Germany.</h3>
 
-<a href="https://github.com/totallybadd">
-  <img src="https://visitcount.itsvg.in/api?id=TotallyBadd&label=Account%20Visits&icon=5&pretty=true" />
-</a>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=totallybadd" alt="totallybadd" /></a> </p>
 
